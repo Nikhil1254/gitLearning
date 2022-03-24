@@ -1,5 +1,0 @@
-Hello welcome to the git series.
-Hakunama tata.
-timon and pumba
-
-Im editing Hello.txt file
