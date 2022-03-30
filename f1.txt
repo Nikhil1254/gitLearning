@@ -1,8 +1,2 @@
 This is f1 file
 
-Hello Nikhil.
-Hello Kedar
-
-
-editing the files   
-this is extra content.
